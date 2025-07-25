@@ -1,0 +1,14 @@
+SIZE 76 mm,101 mm
+GAP 2 mm,0
+DIRECTION 1,0
+CLS
+TEXT 50,30,"3",0,1,1,"PRODUCT LABEL"
+TEXT 50,80,"3",0,1,1,"Date"
+TEXT 50,110,"3",0,1,1,"2025-07-11"
+TEXT 50,160,"3",0,1,1,"Item"
+TEXT 50,190,"3",0,1,1,"Flour Bag"
+TEXT 50,240,"3",0,1,1,"Net Weight"
+TEXT 50,270,"3",0,1,1,"5.500kg"
+TEXT 50,320,"3",0,1,1,"Barcode"
+BARCODE 50,350,"128",80,1,0,2,2,"Flour Bag-5.500kg"
+PRINT 1
