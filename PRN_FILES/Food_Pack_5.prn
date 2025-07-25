@@ -1,0 +1,14 @@
+SIZE 90 mm,60 mm
+GAP 2 mm,0
+DIRECTION 1,0
+CLS
+TEXT 40,20,"3",0,1,1,"FOOD PACK"
+TEXT 40,60,"3",0,1,1,"Item"
+TEXT 40,90,"3",0,1,1,"Almond Butter"
+TEXT 40,130,"3",0,1,1,"Weight"
+TEXT 40,160,"3",0,1,1,"350g"
+TEXT 40,200,"3",0,1,1,"EXP Date"
+TEXT 40,230,"3",0,1,1,"01/2026"
+TEXT 40,270,"3",0,1,1,"Barcode"
+BARCODE 40,300,"128",100,1,0,2,2,"AlmondButter-350"
+PRINT 1

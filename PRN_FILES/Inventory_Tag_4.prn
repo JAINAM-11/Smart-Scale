@@ -1,0 +1,14 @@
+SIZE 80 mm,50 mm
+GAP 2 mm,0
+DIRECTION 1,0
+CLS
+TEXT 20,20,"3",0,1,1,"INVENTORY TAG"
+TEXT 20,60,"3",0,1,1,"Item"
+TEXT 20,90,"3",0,1,1,"Copper Wire"
+TEXT 20,130,"3",0,1,1,"Qty"
+TEXT 20,160,"3",0,1,1,"120 meters"
+TEXT 20,200,"3",0,1,1,"Location"
+TEXT 20,230,"3",0,1,1,"Rack A2"
+TEXT 20,270,"3",0,1,1,"Barcode"
+BARCODE 20,300,"128",80,1,0,2,2,"CopperWire-A2"
+PRINT 1
